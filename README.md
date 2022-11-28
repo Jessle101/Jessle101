@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 I love to program & creates projects! Feel free to check any of them out!! :)
 more info here → https://jessle101.github.io/
 
- 💫 Pronouns: she/her
- 🌱 Learning: JavaScript
- 📫 Contact Email: jessie.g.osti@gmail.com
+ 💫 Pronouns: she/her <br />
+ 🌱 Learning: JavaScript <br />
+ 📫 Contact Email: jessie.g.osti@gmail.com <br />

@@ -18,5 +18,5 @@ I love to program & creates projects! Feel free to check any of them out!! :)  <
 more info here → https://Jessle101.github.io/
 
  💫 Pronouns: she/her <br />
- 🌱 Learning: JavaScript <br />
- 📫 Contact Email: Jessie.g.osti@gmail.com <br />
+ 🌱 Learning: Web Development & JavaScript <br />
+ 📫 Contact Email: jessie.g.osti@gmail.com <br />

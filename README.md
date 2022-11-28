@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I love to program & creates projects! Feel free to check any of them out!! :)
-more info here → https://jessle101.github.io/
+I love to program & creates projects! Feel free to check any of them out!! :)  <br />
+more info here → https://Jessle101.github.io/
 
  💫 Pronouns: she/her <br />
  🌱 Learning: JavaScript <br />
- 📫 Contact Email: jessie.g.osti@gmail.com <br />
+ 📫 Contact Email: Jessie.g.osti@gmail.com <br />

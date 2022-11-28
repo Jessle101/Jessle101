@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my Github! 🤍
 
 <!--
 **Jessle101/Jessle101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I love to program & creates projects! Feel free to check any of them out!! :)
+more info here → https://jessle101.github.io/
+
+ 💫 Pronouns: she/her
+ 🌱 Learning: JavaScript
+ 📫 Contact Email: jessie.g.osti@gmail.com

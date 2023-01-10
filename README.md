@@ -19,4 +19,4 @@ more info here → https://Jessle101.github.io/
 
  💫 Pronouns: she/her <br />
  🌱 Learning: Web Development & JavaScript <br />
- 📫 Contact Email: jessie.g.osti@gmail.com <br />
+ 📫 Contact: Jessie101 on YouTube <br />
